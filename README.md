@@ -5,7 +5,7 @@ AURA (Artificial User Responsive Assistant) is a simple yet powerful voice-activ
 ## 🔮 Live Preview
 
 Check out the live version of AURA:  
-[🔗 Deploy Link](https://your-deployment-link.com) *(Update this with your actual link)*
+[🔗 Deploy Link](https://virtualassisstant-production.up.railway.app/)
 
 ---
 
